@@ -29,10 +29,7 @@ You can run this project:
 
 ## Screenshots:
 
-<img align="left" src="Screenshots/01.jpg"></img>
-<img align="left" src="Screenshot/02.jpg"></img>
-<img align="left" src="Screenshot/03.jpg"></img>
+<img src="Screenshots/01.jpg">
+<img src="Screenshot/02.jpg">
+<img src="Screenshot/03.jpg">
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
