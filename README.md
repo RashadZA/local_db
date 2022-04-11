@@ -29,7 +29,7 @@ You can run this project:
 
 ## Screenshots:
 
-<img src="Screenshots/01.jpg">
-<img src="Screenshot/02.jpg">
-<img src="Screenshot/03.jpg">
+<img src="screenshots/01.jpg">
+<img src="screenshots/02.jpg">
+<img src="screenshots/03.jpg">
 
